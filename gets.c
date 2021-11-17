@@ -5,6 +5,7 @@
 // Another Comment
 // Another one
 // And again.
+// S'more!
 
 typedef struct MyStruct
 {
