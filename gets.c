@@ -4,6 +4,7 @@
 // A comment.
 // Another Comment
 // Another one
+// And again.
 
 typedef struct MyStruct
 {
