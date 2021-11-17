@@ -1,5 +1,8 @@
 #include <stdio.h> 
 //https://faq.cprogramming.com/cgi-bin/smartfaq.cgi?answer=1049157810&id=1043284351
+
+// A comment.
+
 typedef struct MyStruct
 {
   char buf[5];
