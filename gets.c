@@ -31,8 +31,7 @@ int main(void)
   printf ("my.i is %d\n", my.i);
   printf ("Enter a 10 digit number:");  /* Too big on purpose  */
   
-  gets(my.buf); // Comment on line
-  // Comment below
+  gets(my.buf);
   
   printf ("my.buf is >%s<\n", my.buf);
   printf ("my.i is %d\n", my.i);
