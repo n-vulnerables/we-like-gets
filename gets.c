@@ -16,8 +16,6 @@
 // RESET
 // 34
 // 35
-// 36
-// 37
 
 typedef struct MyStruct
 {
