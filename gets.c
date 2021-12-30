@@ -1,6 +1,9 @@
 #include <stdio.h> 
 //https://faq.cprogramming.com/cgi-bin/smartfaq.cgi?answer=1049157810&id=1043284351
 
+
+
+
 typedef struct MyStruct
 {
   char buf[5];
@@ -16,8 +19,8 @@ int main(void)
   printf ("my.i is %d\n", my.i);
   printf ("Enter a 10 digit number:");  /* Too big on purpose  */
 
-  gets(my.buf); // Something Else.
-  
+  gets(my.buf); // Something
+ 
   printf ("my.buf is >%s<\n", my.buf);
   printf ("my.i is %d\n", my.i);
   
